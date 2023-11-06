@@ -16,10 +16,10 @@ Time spent: **x** hours spent in total
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ed2fdd590e374733a371351e62fd93a7-with-play.gif">
     </a>
   </div>
+
 ## Notes
 
 
-Describe any challenges encountered while building the app.
 
 ## License
 
