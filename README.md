@@ -4,7 +4,7 @@ Submitted by: **Richard Martinez**
 
 **Name of your app** is an app that displays the current news using an API. It also displays a secondary video of a clip of someone playing Subway Surfers while the user can scroll through the news. 
 
-Time spent: **x** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Video Walkthrough
 
