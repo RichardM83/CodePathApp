@@ -19,7 +19,7 @@ Time spent: **X** hours spent in total
 
 ## Notes
 
-
+None so far.
 
 ## License
 
