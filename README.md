@@ -4,24 +4,24 @@ Submitted by: **Richard Martinez**
 
 **Name of your app** is an app that displays the current news using an API. It also displays a secondary video of a clip of someone playing Subway Surfers while the user can scroll through the news.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Video Walkthrough
 
 <img width="794" alt="Screenshot 2023-11-06 at 6 36 53 PM" src="https://github.com/RichardM83/CodePathApp/assets/71109091/47b6b0b0-d7df-4b6e-afff-44f020e068b1">
-
-<div>
-    <a href="https://www.loom.com/share/ed2fdd590e374733a371351e62fd93a7"></a>
-    <a href="https://www.loom.com/share/ed2fdd590e374733a371351e62fd93a7">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ed2fdd590e374733a371351e62fd93a7-with-play.gif">
-    </a>
-  </div>
 
   <div>
     <a href="https://www.loom.com/share/ca566541680940719df27ee81860bf1e">
     </a>
     <a href="https://www.loom.com/share/ca566541680940719df27ee81860bf1e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ca566541680940719df27ee81860bf1e-with-play.gif">
+    </a>
+  </div>
+
+<div>
+    <a href="https://www.loom.com/share/ed2fdd590e374733a371351e62fd93a7"></a>
+    <a href="https://www.loom.com/share/ed2fdd590e374733a371351e62fd93a7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ed2fdd590e374733a371351e62fd93a7-with-play.gif">
     </a>
   </div>
 
