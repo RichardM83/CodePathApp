@@ -17,6 +17,14 @@ Time spent: **X** hours spent in total
     </a>
   </div>
 
+  <div>
+    <a href="https://www.loom.com/share/ca566541680940719df27ee81860bf1e">
+    </a>
+    <a href="https://www.loom.com/share/ca566541680940719df27ee81860bf1e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ca566541680940719df27ee81860bf1e-with-play.gif">
+    </a>
+  </div>
+
 ## Notes
 
 None so far.
