@@ -6,6 +6,19 @@ Submitted by: **Richard Martinez**
 
 Time spent: **15** hours spent in total
 
+## Features
+
+The following **required** functionality is completed:
+
+- [x] Created table view of a news feed
+- [x] Have images and labels displayed on each table cell
+- [x] Add functionality to jump into a news article
+- [ ] Have Subway Surfers playing at the top of the screen
+
+The following **additional** features are implemented:
+
+- [x] Have the news article be a clickable link
+
 ## Video Walkthrough
 
 <img width="794" alt="Screenshot 2023-11-06 at 6 36 53 PM" src="https://github.com/RichardM83/CodePathApp/assets/71109091/47b6b0b0-d7df-4b6e-afff-44f020e068b1">
