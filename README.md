@@ -1,4 +1,4 @@
-# Project 7 - *Dopamine News*
+ # Project 7 - *Dopamine News*
 
 Submitted by: **Richard Martinez** 
 
