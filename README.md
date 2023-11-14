@@ -8,7 +8,7 @@ Time spent: **15** hours spent in total
  
 ## Features
  
-The following **required** functionality is completed:
+The following **required** functionality is completed: 
 
 - [x] Created table view of a news feed
 - [x] Have images and labels displayed on each table cell
