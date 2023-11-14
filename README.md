@@ -6,7 +6,7 @@ Submitted by: **Richard Martinez**
 
 Time spent: **15** hours spent in total
  
-## Features
+## Features 
  
 The following **required** functionality is completed: 
 
