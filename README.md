@@ -7,7 +7,7 @@ Submitted by: **Richard Martinez**
 Time spent: **15** hours spent in total
 
 ## Features
-
+ 
 The following **required** functionality is completed:
 
 - [x] Created table view of a news feed
